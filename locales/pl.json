@@ -1,0 +1,14 @@
+{
+  "welcome": "Witaj {{name}}!",
+  "activity": {
+    "info": {
+      "title": "Informacje o treningu"
+    }
+  },
+  "home": {
+    "start_journey": "Rozpocznij trening",
+    "activities_list": {
+      "title": "Historia treningów"
+    }
+  }
+}
